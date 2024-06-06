@@ -8,6 +8,7 @@ const feibo = (n) => {
 console.log(feibo(5));
 //动态规划
 const feibo2 = (n) => {
+  //初始化dp
   let arr = new Array(n).fill(0)
   arr[0] = 1;
   arr[1] = 1;
