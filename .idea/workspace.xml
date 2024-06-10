@@ -4,26 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8667b6-82a0-4b6c-ac91-b923860a6f28" name="更改" comment="学习动态规划2">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1035]不相交的线.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1143]最长公共子序列.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[115]不同的子序列.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[121]买卖股票的最佳时机.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[20]有效的括号.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[392]判断子序列.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[53]最大子数组和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[674]最长连续递增序列.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[718]最长重复子数组.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1035]不相交的线.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1143]最长公共子序列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[115]不同的子序列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[121]买卖股票的最佳时机.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[20]有效的括号.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[392]判断子序列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[53]最大子数组和.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[674]最长连续递增序列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[718]最长重复子数组.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/note/[122]买卖股票的最佳时机 II.md" afterDir="false" />
+    <list default="true" id="2b8667b6-82a0-4b6c-ac91-b923860a6f28" name="更改" comment="学习动态规划6.10">
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[274]H 指数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[380]O(1) 时间插入、删除和获取随机元素.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[45]跳跃游戏 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[516]最长回文子序列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[55]跳跃游戏.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[647]回文子串.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[72]编辑距离.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[274]H 指数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[380]O(1) 时间插入、删除和获取随机元素.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[45]跳跃游戏 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[516]最长回文子序列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[55]跳跃游戏.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[647]回文子串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[72]编辑距离.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/note/[55]跳跃游戏.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/solution/55-by-ikaruga.lcv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[583]两个字符串的删除操作.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[583]两个字符串的删除操作.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +67,16 @@
     "Node.js.26.js.executor": "Run",
     "Node.js.[1143]最长公共子序列.js.executor": "Run",
     "Node.js.[115]不同的子序列.js.executor": "Run",
+    "Node.js.[380]O(1) 时间插入、删除和获取随机元素.js.executor": "Debug",
     "Node.js.[392]判断子序列.js.executor": "Run",
+    "Node.js.[45]跳跃游戏 II.js.executor": "Run",
     "Node.js.[53]最大子数组和.js.executor": "Run",
+    "Node.js.[55]跳跃游戏.js.executor": "Debug",
+    "Node.js.[583]两个字符串的删除操作.js.executor": "Run",
+    "Node.js.[647]回文子串.js.executor": "Run",
     "Node.js.[674]最长连续递增序列.js.executor": "Run",
     "Node.js.[718]最长重复子数组.js.executor": "Run",
+    "Node.js.[72]编辑距离.js.executor": "Run",
     "Node.js.study1.js.executor": "Run",
     "Node.js.study11.js.executor": "Run",
     "Node.js.study12.js.executor": "Run",
@@ -93,20 +100,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.[115]不同的子序列.js">
-    <configuration name="[1143]最长公共子序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[1143]最长公共子序列.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+  <component name="RunManager" selected="Node.js.[380]O(1) 时间插入、删除和获取随机元素.js">
+    <configuration name="[380]O(1) 时间插入、删除和获取随机元素.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[380]O(1) 时间插入、删除和获取随机元素.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[115]不同的子序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[115]不同的子序列.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+    <configuration name="[45]跳跃游戏 II.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[45]跳跃游戏 II.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[392]判断子序列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[392]判断子序列.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+    <configuration name="[55]跳跃游戏.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[55]跳跃游戏.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[53]最大子数组和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[53]最大子数组和.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+    <configuration name="[647]回文子串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[647]回文子串.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[718]最长重复子数组.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[718]最长重复子数组.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+    <configuration name="[72]编辑距离.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[72]编辑距离.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
     <configuration name="study1.js" type="NodeJSConfigurationType" path-to-node="$USER_HOME$/.config/nvm/versions/node/v20.14.0/bin/node" nameIsGenerated="true" path-to-js-file="study1.js" working-dir="$PROJECT_DIR$/study/动态规划">
@@ -123,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.[115]不同的子序列.js" />
-        <item itemvalue="Node.js.[392]判断子序列.js" />
-        <item itemvalue="Node.js.[53]最大子数组和.js" />
-        <item itemvalue="Node.js.[1143]最长公共子序列.js" />
-        <item itemvalue="Node.js.[718]最长重复子数组.js" />
+        <item itemvalue="Node.js.[380]O(1) 时间插入、删除和获取随机元素.js" />
+        <item itemvalue="Node.js.[45]跳跃游戏 II.js" />
+        <item itemvalue="Node.js.[55]跳跃游戏.js" />
+        <item itemvalue="Node.js.[647]回文子串.js" />
+        <item itemvalue="Node.js.[72]编辑距离.js" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +149,7 @@
       <workItem from="1717642732460" duration="9947000" />
       <workItem from="1717818441072" duration="5309000" />
       <workItem from="1717915575806" duration="11810000" />
-      <workItem from="1717990437800" duration="3513000" />
+      <workItem from="1717990437800" duration="11591000" />
     </task>
     <task id="LOCAL-00001" summary="添加项目">
       <option name="closed" value="true" />
@@ -184,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717924801436</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="学习动态规划6.10">
+      <option name="closed" value="true" />
+      <created>1717993991320</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717993991320</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +210,7 @@
     <MESSAGE value="添加项目" />
     <MESSAGE value="学习动态规划" />
     <MESSAGE value="学习动态规划2" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习动态规划2" />
+    <MESSAGE value="学习动态规划6.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习动态规划6.10" />
   </component>
 </project>
