@@ -1,0 +1,35 @@
+### 解题思路
+
+- `dp[0]`    以偶数为结尾时的最大分数
+- `dp[1]`    以奇数为结尾时的最大分数
+
+最初的位置必须从位置 $0$ 开始，所以我们用`nums[0]`的数据来初始化 $dp$ 数组。
+
+每移动到一个位置 $i$ 时，我们都获得 `nums[i]` 的分数。前面最大分数的结尾数可能是奇数，也有可能是偶数，如果前面最大分数对应的结尾数的奇偶性和当前数的奇偶性不同，则还要减去 `x`。我们比较两种情况，选择其中的最大值。
+
+### 代码
+
+* java
+
+```java
+
+class Solution {
+    public long maxScore(int[] nums, int x) {
+
+        int num = nums[0];
+        long[] dp =  new long[]{num, num};
+        dp[num & 1 ^ 1] -= x;
+
+        int n = nums.length;
+        for(int i = 1; i < n; ++i){
+            num = nums[i];
+            dp[num & 1] = num + Math.max(dp[num & 1], dp[num & 1 ^ 1] - x );
+        }
+        
+        return Math.max(dp[0], dp[1]);
+    }
+}
+
+
+```
+

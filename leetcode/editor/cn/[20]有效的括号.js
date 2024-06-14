@@ -41,14 +41,31 @@
 // 
 //
 // Related Topics 栈 字符串 👍 4456 👎 0
-
-
 //leetcode submit region begin(Prohibit modification and deletion)
 /**
  * @param {string} s
  * @return {boolean}
  */
-var isValid = function(s) {
-  console.log('231');
+var isValid = function (s) {
+  s = s.split('')
+  const temp = [];
+  const map = {
+    '(': ')', '[': ']', '{': '}'
+  }
+  for (let i = 0; i < s.length; i++) {
+    if (s[i] === '(' || s[i] === '[' || s[i] === '{') {
+      temp.push(map[s[i]]);
+    } else {
+      if (temp[temp.length - 1] === s[i]) {
+        temp.splice(temp.length - 1, 1)
+      } else {
+        return false;
+      }
+    }
+//leetcode submit region end(Prohibit modification and deletion))
+  }
+  return temp.length === 0;
 };
+// const s = "()"
+// console.log(isValid(s));
 //leetcode submit region end(Prohibit modification and deletion)
