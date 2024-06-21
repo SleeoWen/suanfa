@@ -4,30 +4,63 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8667b6-82a0-4b6c-ac91-b923860a6f28" name="更改" comment="学习动态规划6.10">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1047]删除字符串中的所有相邻重复项.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[150]逆波兰表达式求值.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[151]反转字符串中的单词.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[203]移除链表元素.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[239]滑动窗口最大值.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2786]访问数组中的位置使分数最大.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[344]反转字符串.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[541]反转字符串 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[707]设计链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1047]删除字符串中的所有相邻重复项.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[150]逆波兰表达式求值.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[151]反转字符串中的单词.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[203]移除链表元素.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[239]滑动窗口最大值.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2786]访问数组中的位置使分数最大.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[344]反转字符串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[541]反转字符串 II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[707]设计链表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/solution/jian-dan-yi-dong-de-dong-tai-gui-hua-by-gk4tq.lcv" afterDir="false" />
+    <list default="true" id="2b8667b6-82a0-4b6c-ac91-b923860a6f28" name="更改" comment="学习动态规划6.14">
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[128]最长连续序列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[142]环形链表 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[15]三数之和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[17]电话号码的字母组合.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[18]四数之和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[193]有效电话号码.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[19]删除链表的倒数第 N 个结点.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[206]反转链表.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[216]组合总和 III.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2288]价格减免.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2322]从树中删除边的最小分数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[242]有效的字母异位词.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[24]两两交换链表中的节点.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2713]矩阵中严格递增的单元格数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2748]美丽下标对的数目.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2940]找到 Alice 和 Bob 可以相遇的建筑.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[300]最长递增子序列.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[349]两个数组的交集.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[39]组合总和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[40]组合总和 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[454]四数相加 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[522]最长特殊序列 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[77]组合.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[813]最大平均值和的分组.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[128]最长连续序列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[142]环形链表 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[15]三数之和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1651]Hopper 公司查询 III.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[17]电话号码的字母组合.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[18]四数之和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[193]有效电话号码.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[19]删除链表的倒数第 N 个结点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1]两数之和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[206]反转链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[216]组合总和 III.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2288]价格减免.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2322]从树中删除边的最小分数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[242]有效的字母异位词.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[24]两两交换链表中的节点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2713]矩阵中严格递增的单元格数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2748]美丽下标对的数目.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2940]找到 Alice 和 Bob 可以相遇的建筑.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[300]最长递增子序列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[305]岛屿数量 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[349]两个数组的交集.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[39]组合总和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[40]组合总和 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[454]四数相加 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[522]最长特殊序列 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[77]组合.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[813]最大平均值和的分组.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[20]有效的括号.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[20]有效的括号.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[707]设计链表.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[707]设计链表.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,12 +104,23 @@
     "Node.js.[1143]最长公共子序列.js.executor": "Run",
     "Node.js.[115]不同的子序列.js.executor": "Run",
     "Node.js.[151]反转字符串中的单词.js.executor": "Run",
+    "Node.js.[15]三数之和.js.executor": "Run",
+    "Node.js.[17]电话号码的字母组合.js.executor": "Run",
+    "Node.js.[18]四数之和.js.executor": "Run",
+    "Node.js.[1]两数之和.js.executor": "Run",
     "Node.js.[203]移除链表元素.js.executor": "Run",
     "Node.js.[20]有效的括号.js.executor": "Run",
+    "Node.js.[216]组合总和 III.js.executor": "Run",
     "Node.js.[239]滑动窗口最大值.js.executor": "Run",
+    "Node.js.[242]有效的字母异位词.js.executor": "Debug",
+    "Node.js.[2713]矩阵中严格递增的单元格数.js.executor": "Run",
+    "Node.js.[2748]美丽下标对的数目.js.executor": "Run",
     "Node.js.[2786]访问数组中的位置使分数最大.js.executor": "Run",
+    "Node.js.[349]两个数组的交集.js.executor": "Debug",
     "Node.js.[380]O(1) 时间插入、删除和获取随机元素.js.executor": "Debug",
     "Node.js.[392]判断子序列.js.executor": "Run",
+    "Node.js.[39]组合总和.js.executor": "Run",
+    "Node.js.[454]四数相加 II.js.executor": "Run",
     "Node.js.[45]跳跃游戏 II.js.executor": "Run",
     "Node.js.[53]最大子数组和.js.executor": "Run",
     "Node.js.[55]跳跃游戏.js.executor": "Debug",
@@ -84,8 +128,10 @@
     "Node.js.[59]螺旋矩阵 II.js.executor": "Run",
     "Node.js.[647]回文子串.js.executor": "Run",
     "Node.js.[674]最长连续递增序列.js.executor": "Run",
+    "Node.js.[707]设计链表.js.executor": "Debug",
     "Node.js.[718]最长重复子数组.js.executor": "Run",
     "Node.js.[72]编辑距离.js.executor": "Run",
+    "Node.js.[77]组合.js.executor": "Run",
     "Node.js.[977]有序数组的平方.js.executor": "Run",
     "Node.js.study1.js.executor": "Run",
     "Node.js.study11.js.executor": "Run",
@@ -110,20 +156,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.[2786]访问数组中的位置使分数最大.js">
-    <configuration name="[151]反转字符串中的单词.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[151]反转字符串中的单词.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+  <component name="RunManager" selected="Node.js.[18]四数之和.js">
+    <configuration name="[15]三数之和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[15]三数之和.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[203]移除链表元素.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[203]移除链表元素.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+    <configuration name="[18]四数之和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[18]四数之和.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[20]有效的括号.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[20]有效的括号.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+    <configuration name="[1]两数之和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[239]滑动窗口最大值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[239]滑动窗口最大值.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+    <configuration name="[349]两个数组的交集.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[349]两个数组的交集.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[2786]访问数组中的位置使分数最大.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[2786]访问数组中的位置使分数最大.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+    <configuration name="[454]四数相加 II.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[454]四数相加 II.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
     <configuration name="study1.js" type="NodeJSConfigurationType" path-to-node="$USER_HOME$/.config/nvm/versions/node/v20.14.0/bin/node" nameIsGenerated="true" path-to-js-file="study1.js" working-dir="$PROJECT_DIR$/study/动态规划">
@@ -140,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.[2786]访问数组中的位置使分数最大.js" />
-        <item itemvalue="Node.js.[239]滑动窗口最大值.js" />
-        <item itemvalue="Node.js.[151]反转字符串中的单词.js" />
-        <item itemvalue="Node.js.[20]有效的括号.js" />
-        <item itemvalue="Node.js.[203]移除链表元素.js" />
+        <item itemvalue="Node.js.[18]四数之和.js" />
+        <item itemvalue="Node.js.[15]三数之和.js" />
+        <item itemvalue="Node.js.[1]两数之和.js" />
+        <item itemvalue="Node.js.[454]四数相加 II.js" />
+        <item itemvalue="Node.js.[349]两个数组的交集.js" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +208,16 @@
       <workItem from="1717990437800" duration="11680000" />
       <workItem from="1718012065184" duration="4182000" />
       <workItem from="1718076240773" duration="5828000" />
-      <workItem from="1718336192669" duration="5656000" />
+      <workItem from="1718336192669" duration="5711000" />
+      <workItem from="1718351884755" duration="369000" />
+      <workItem from="1718597761551" duration="1747000" />
+      <workItem from="1718696133311" duration="78000" />
+      <workItem from="1718696303063" duration="1904000" />
+      <workItem from="1718786133054" duration="3942000" />
+      <workItem from="1718807606129" duration="4413000" />
+      <workItem from="1718847572754" duration="3201000" />
+      <workItem from="1718875592180" duration="4325000" />
+      <workItem from="1718949031851" duration="10352000" />
     </task>
     <task id="LOCAL-00001" summary="添加项目">
       <option name="closed" value="true" />
@@ -228,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718018220374</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="学习动态规划6.14">
+      <option name="closed" value="true" />
+      <created>1718345535779</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718345535779</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +303,18 @@
     <MESSAGE value="学习动态规划" />
     <MESSAGE value="学习动态规划2" />
     <MESSAGE value="学习动态规划6.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习动态规划6.10" />
+    <MESSAGE value="学习动态规划6.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习动态规划6.14" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/[2748]美丽下标对的数目.js</url>
+          <line>65</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
