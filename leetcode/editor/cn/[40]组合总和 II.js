@@ -46,23 +46,36 @@
  * @return {number[][]}
  */
 var combinationSum2 = function (candidates, target) {
-  const getRes = (start, sum) => {
-    if (sum <= 0) {
-      return [];
+  const res = [],
+    path = [], len = candidates.length;
+  candidates.sort((a, b) => a - b);
+  backtracking(0, 0);
+  return res;
+
+  function backtracking(sum, i) {
+    if (sum === target) {
+      res.push(Array.from(path));
+      return;
     }
-    const res = [];
-    for (let i = start; i < candidates.length; i++) {
-      if (candidates[i] === sum) {
-        res.push([candidates[i]]);
-      } else {
-        const temp = getRes(i + 1, sum - candidates[i]);
-        if (temp.length > 0) {
-          res.push(...temp.map(item => [candidates[i], ...item]));
-        }
+    for (let j = i; j < len; j++) {
+      const n = candidates[j];
+      if (j > i && candidates[j] === candidates[j - 1]) {
+        //若当前元素和前一个元素相等
+        //则本次循环结束，防止出现重复组合
+        continue;
       }
+      //如果当前元素值大于目标值-总和的值
+      //由于数组已排序，那么该元素之后的元素必定不满足条件
+      //直接终止当前层的递归
+      if (n > target - sum) break;
+      path.push(n);
+      sum += n;
+      backtracking(sum, j + 1);
+      path.pop();
+      sum -= n;
     }
-    return res;
-  };
-  return getRes(0, target);
+  }
 };
+const candidates = [10, 1, 2, 7, 6, 1, 5], target = 8
+console.log(combinationSum2(candidates, target))
 //leetcode submit region end(Prohibit modification and deletion)

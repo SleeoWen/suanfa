@@ -28,14 +28,26 @@
 // 
 //
 // Related Topics 并查集 数组 哈希表 👍 2108 👎 0
-
-
 //leetcode submit region begin(Prohibit modification and deletion)
 /**
  * @param {number[]} nums
  * @return {number}
  */
-var longestConsecutive = function(nums) {
-
+var longestConsecutive = function (nums) {
+  const obj = {};
+  for (let temp of nums) {
+    obj[temp] = true;
+  }
+  let res = 0;
+  for (let temp of nums) {
+    if (!obj[temp - 1]) {
+      let cur = temp;
+      while (obj[cur + 1]) {
+        cur++;
+      }
+      res = Math.max(res, cur - temp + 1);
+    }
+  }
+  return res;
 };
 //leetcode submit region end(Prohibit modification and deletion)
