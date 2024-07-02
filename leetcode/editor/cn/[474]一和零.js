@@ -38,8 +38,6 @@
 // 
 //
 // Related Topics 数组 字符串 动态规划 👍 1152 👎 0
-
-
 //leetcode submit region begin(Prohibit modification and deletion)
 /**
  * @param {string[]} strs
@@ -47,7 +45,31 @@
  * @param {number} n
  * @return {number}
  */
-var findMaxForm = function(strs, m, n) {
-
+var findMaxForm = function (strs, m, n) {
+//重量相当于两个维度
+  // 装满i个0和j个1的背包的最大容量是dp[i][j]个
+  // dp[j]=Math.max(dp[j],dp[j-weight[i]+value[i])
+  // 如果一个物品有x个0，y个1
+  // dp[j]=Math.max(dp[i][j],dp[i-x]+dp[j-y]+1);
+  const dp = Array.from(Array(m + 1), () => Array(n + 1).fill(0));
+  dp[0][0] = 0;
+  for (let str of strs) {
+    let x = 0;
+    let y = 0;
+    for (let c of str) {
+      if (c === '0') {
+        x++;
+      } else {
+        y++;
+      }
+    }
+    for (let i = m; i >= x; i--) {
+      for (let j = n; j >= y; j--) {
+        dp[i][j] = Math.max(dp[i][j], dp[i - x][j - y] + 1);
+        // console.log(dp[i][j], 'kss');
+      }
+    }
+  }
+  return dp[m][n]
 };
 //leetcode submit region end(Prohibit modification and deletion)

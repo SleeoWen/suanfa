@@ -1,0 +1,118 @@
+> Problem: [590. N 叉树的后序遍历](https://leetcode.cn/problems/n-ary-tree-postorder-traversal/description/)
+
+[TOC]
+
+# 思路
+
+> 标准后序遍历题
+
+# 解题方法
+
+> 后序遍历：先子节点，最后自身
+
+# 复杂度
+
+时间复杂度:
+
+> $O(n)$
+
+空间复杂度:
+
+> $O(n)$
+
+# Code
+
+* []
+
+```Python
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, val=None, children=None):
+        self.val = val
+        self.children = children
+"""
+
+class Solution:
+    def postorder(self, root: 'Node') -> List[int]:
+        def dfs(node):
+            if not node:
+                return
+            for child in node.children:
+                yield from dfs(child)
+            yield node.val
+        
+        return [v for v in dfs(root)]
+```
+
+* []
+
+```Go
+/**
+ * Definition for a Node.
+ * type Node struct {
+ *     Val int
+ *     Children []*Node
+ * }
+ */
+
+func postorder(root *Node) []int {
+    var walk func(node *Node, ch chan int)
+    walk = func(node *Node, ch chan int) {
+        if node == nil {
+            return
+        }
+        for _, child := range node.Children {
+            walk(child, ch)
+        }
+        ch <- node.Val
+    }
+    f := func(node *Node, ch chan int) {
+        walk(node, ch)
+        close(ch)
+    }
+    ch := make(chan int)
+    ans := []int{}
+    go f(root, ch)
+    for v := range ch {
+        ans = append(ans, v)
+    }
+    return ans
+}
+```
+
+* []
+
+```C
+/**
+ * Definition for a Node.
+ * struct Node {
+ *     int val;
+ *     int numChildren;
+ *     struct Node** children;
+ * };
+ */
+
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
+#define MAX_NODE 10000
+
+void dfs(struct Node *node, int *arr, int *idx) {
+    if (!node) {
+        return;
+    }
+    for (int i = 0; i < node->numChildren; i++) {
+        dfs(node->children[i], arr, idx);
+    }
+    arr[(*idx)++] = node->val;
+}
+
+int* postorder(struct Node* root, int* returnSize) {
+    int *ans = malloc(sizeof(int) * MAX_NODE);
+    *returnSize = 0;
+    dfs(root, ans, returnSize);
+    return ans; 
+}
+```
+

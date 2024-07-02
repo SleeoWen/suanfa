@@ -40,14 +40,12 @@
 // 
 //
 // Related Topics 贪心 数组 动态规划 👍 2501 👎 0
-
-
 //leetcode submit region begin(Prohibit modification and deletion)
 /**
  * @param {number[]} prices
  * @return {number}
  */
-var maxProfit = function(prices) {
+var maxProfit = function (prices) {
   // 第i天,dp[i][0]持有股票得到的最大现金，dp[i][1]不持有股票得到的最大现金
   const length = prices.length;
   // dp[i][0]= Math.max(dp[i-1][0],-prices[i])
@@ -55,9 +53,12 @@ var maxProfit = function(prices) {
   let dp = Array.from(Array(prices.length), () => Array(2).fill(0));
   dp[0][0] = -prices[0];
   for (let i = 1; i < length; i++) {
-    dp[i][0] = Math.max(dp[i - 1][0], dp[i - 1][1] - prices[i])
+    dp[i][0] = Math.max(dp[i - 1][0], dp[i - 1][1] - prices[i]);
     dp[i][1] = Math.max(dp[i - 1][1], dp[i - 1][0] + prices[i])
   }
+  // console.table(dp);
   return dp[length - 1][1];
 };
+// const prices = [7, 1, 5, 3, 6, 4]
+// console.log(maxProfit(prices));
 //leetcode submit region end(Prohibit modification and deletion)
