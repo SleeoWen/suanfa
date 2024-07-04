@@ -212,6 +212,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1201]丑数 III.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1201]丑数 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1201" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1201]丑数 III.js" />
+              <option name="titleSlug" value="ugly-number-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[121]买卖股票的最佳时机.js">
           <value>
             <LeetcodeEditor>
@@ -1125,6 +1136,72 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2722]根据 ID 合并两个数组.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2722]根据 ID 合并两个数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2722" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2722]根据 ID 合并两个数组.js" />
+              <option name="titleSlug" value="join-two-arrays-by-id" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2723]两个 Promise 对象相加.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2723]两个 Promise 对象相加.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2723" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2723]两个 Promise 对象相加.js" />
+              <option name="titleSlug" value="add-two-promises" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2724]排序方式.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2724]排序方式.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2724" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2724]排序方式.js" />
+              <option name="titleSlug" value="sort-by" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2725]间隔取消.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2725]间隔取消.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2725" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2725]间隔取消.js" />
+              <option name="titleSlug" value="interval-cancellation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2726]使用方法链的计算器.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2726]使用方法链的计算器.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2726" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2726]使用方法链的计算器.js" />
+              <option name="titleSlug" value="calculator-with-method-chaining" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2727]判断对象是否为空.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2727]判断对象是否为空.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2727" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2727]判断对象是否为空.js" />
+              <option name="titleSlug" value="is-object-empty" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2734]执行子串操作后的字典序最小字符串.js">
           <value>
             <LeetcodeEditor>
@@ -1279,6 +1356,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3033]修改矩阵.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3033]修改矩阵.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3033" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3033]修改矩阵.js" />
+              <option name="titleSlug" value="modify-the-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[305]岛屿数量 II.js">
           <value>
             <LeetcodeEditor>
@@ -1287,6 +1375,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[305]岛屿数量 II.js" />
               <option name="titleSlug" value="number-of-islands-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3086]拾起 K 个 1 需要的最少行动次数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3086]拾起 K 个 1 需要的最少行动次数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3086" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3086]拾起 K 个 1 需要的最少行动次数.js" />
+              <option name="titleSlug" value="minimum-moves-to-pick-k-ones" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3099]哈沙德数.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3099]哈沙德数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3099" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3099]哈沙德数.js" />
+              <option name="titleSlug" value="harshad-number" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1441,6 +1551,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[380]O(1) 时间插入、删除和获取随机元素.js" />
               <option name="titleSlug" value="insert-delete-getrandom-o1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[383]赎金信.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[383]赎金信.md" />
+              <option name="frontendQuestionId" value="leetcode.cn383" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[383]赎金信.js" />
+              <option name="titleSlug" value="ransom-note" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1804,6 +1925,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[541]反转字符串 II.js" />
               <option name="titleSlug" value="reverse-string-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[54]螺旋矩阵.js">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[54]螺旋矩阵.md" />
+              <option name="frontendQuestionId" value="leetcode.cn54" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[54]螺旋矩阵.js" />
+              <option name="titleSlug" value="spiral-matrix" />
             </LeetcodeEditor>
           </value>
         </entry>
