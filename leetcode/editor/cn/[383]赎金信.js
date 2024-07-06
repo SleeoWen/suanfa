@@ -37,15 +37,26 @@
 // 
 //
 // Related Topics 哈希表 字符串 计数 👍 894 👎 0
-
-
 //leetcode submit region begin(Prohibit modification and deletion)
 /**
  * @param {string} ransomNote
  * @param {string} magazine
  * @return {boolean}
  */
-var canConstruct = function(ransomNote, magazine) {
-
+var canConstruct = function (ransomNote, magazine) {
+  const magazineMap = {};
+  const ransomNoteMap = {};
+  for (const temp of ransomNote) {
+    ransomNoteMap[temp] = (ransomNoteMap[temp] || 0) + 1;
+  }
+  for (const temp of magazine) {
+    magazineMap[temp] = (magazineMap[temp] || 0) + 1;
+  }
+  for (const temp in ransomNoteMap) {
+    if (magazineMap[temp] < ransomNoteMap[temp] || !magazineMap[temp]) {
+      return false;
+    }
+  }
+  return true;
 };
 //leetcode submit region end(Prohibit modification and deletion)

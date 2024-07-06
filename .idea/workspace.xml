@@ -4,34 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8667b6-82a0-4b6c-ac91-b923860a6f28" name="更改" comment="7.2">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1201]丑数 III.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2722]根据 ID 合并两个数组.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2723]两个 Promise 对象相加.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2724]排序方式.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2725]间隔取消.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2726]使用方法链的计算器.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2727]判断对象是否为空.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[3033]修改矩阵.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[3086]拾起 K 个 1 需要的最少行动次数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[3099]哈沙德数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[383]赎金信.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[54]螺旋矩阵.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1201]丑数 III.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2722]根据 ID 合并两个数组.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2723]两个 Promise 对象相加.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2724]排序方式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2725]间隔取消.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2726]使用方法链的计算器.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2727]判断对象是否为空.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3033]修改矩阵.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3086]拾起 K 个 1 需要的最少行动次数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3099]哈沙德数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[383]赎金信.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[54]螺旋矩阵.md" afterDir="false" />
+    <list default="true" id="2b8667b6-82a0-4b6c-ac91-b923860a6f28" name="更改" comment="7.5">
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[155]最小栈.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[202]快乐数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[205]同构字符串.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[219]存在重复元素 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[224]基本计算器.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[228]汇总区间.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[290]单词规律.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[3101]交替子数组计数.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[57]插入区间.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[71]简化路径.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[155]最小栈.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[202]快乐数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[205]同构字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[219]存在重复元素 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[224]基本计算器.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[228]汇总区间.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[290]单词规律.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3101]交替子数组计数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[57]插入区间.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[71]简化路径.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/solution/jian-ji-xie-fa-pythonjavacgo-by-endlessc-tcc9.lcv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[383]赎金信.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[383]赎金信.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,10 +87,14 @@
     &quot;Node.js.[18]四数之和.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.[198]打家劫舍.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.[1]两数之和.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[202]快乐数.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.[203]移除链表元素.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[205]同构字符串.js.executor&quot;: &quot;Debug&quot;,
     &quot;Node.js.[20]有效的括号.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.[213]打家劫舍 II.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.[216]组合总和 III.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[219]存在重复元素 II.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[228]汇总区间.js.executor&quot;: &quot;Debug&quot;,
     &quot;Node.js.[239]滑动窗口最大值.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.[242]有效的字母异位词.js.executor&quot;: &quot;Debug&quot;,
     &quot;Node.js.[2619]数组原型对象的最后一个元素.js.executor&quot;: &quot;Run&quot;,
@@ -167,20 +169,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.[2694]事件发射器.js">
-    <configuration name="[2619]数组原型对象的最后一个元素.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[2619]数组原型对象的最后一个元素.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+  <component name="RunManager" selected="Node.js.[228]汇总区间.js">
+    <configuration name="[202]快乐数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[202]快乐数.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[2624]蜗牛排序.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[2624]蜗牛排序.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+    <configuration name="[205]同构字符串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[205]同构字符串.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[2677]分块数组.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[2677]分块数组.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+    <configuration name="[219]存在重复元素 II.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[219]存在重复元素 II.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+      <method v="2" />
+    </configuration>
+    <configuration name="[228]汇总区间.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[228]汇总区间.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
     <configuration name="[2694]事件发射器.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[2694]事件发射器.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
-      <method v="2" />
-    </configuration>
-    <configuration name="[3115]质数的最大距离.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[3115]质数的最大距离.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
     <configuration name="study1.js" type="NodeJSConfigurationType" path-to-node="$USER_HOME$/.config/nvm/versions/node/v20.14.0/bin/node" nameIsGenerated="true" path-to-js-file="study1.js" working-dir="$PROJECT_DIR$/study/动态规划">
@@ -197,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.[228]汇总区间.js" />
+        <item itemvalue="Node.js.[219]存在重复元素 II.js" />
+        <item itemvalue="Node.js.[202]快乐数.js" />
+        <item itemvalue="Node.js.[205]同构字符串.js" />
         <item itemvalue="Node.js.[2694]事件发射器.js" />
-        <item itemvalue="Node.js.[2677]分块数组.js" />
-        <item itemvalue="Node.js.[2624]蜗牛排序.js" />
-        <item itemvalue="Node.js.[2619]数组原型对象的最后一个元素.js" />
-        <item itemvalue="Node.js.[3115]质数的最大距离.js" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +251,11 @@
       <workItem from="1719936360255" duration="2086000" />
       <workItem from="1720002020604" duration="720000" />
       <workItem from="1720061139326" duration="979000" />
-      <workItem from="1720104851268" duration="2254000" />
+      <workItem from="1720104851268" duration="3057000" />
+      <workItem from="1720149537163" duration="3797000" />
+      <workItem from="1720192696875" duration="5038000" />
+      <workItem from="1720248453364" duration="904000" />
+      <workItem from="1720251965174" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="添加项目">
       <option name="closed" value="true" />
@@ -355,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719936405823</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="7.5">
+      <option name="closed" value="true" />
+      <created>1720109859898</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1720109859898</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,7 +386,8 @@
     <MESSAGE value="6.23" />
     <MESSAGE value="6.30" />
     <MESSAGE value="7.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.2" />
+    <MESSAGE value="7.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
