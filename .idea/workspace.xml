@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8667b6-82a0-4b6c-ac91-b923860a6f28" name="更改" comment="7.5">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[155]最小栈.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[202]快乐数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[205]同构字符串.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[219]存在重复元素 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[224]基本计算器.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[228]汇总区间.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[290]单词规律.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[3101]交替子数组计数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[57]插入区间.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[71]简化路径.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[155]最小栈.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[202]快乐数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[205]同构字符串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[219]存在重复元素 II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[224]基本计算器.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[228]汇总区间.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[290]单词规律.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3101]交替子数组计数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[57]插入区间.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[71]简化路径.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/solution/jian-ji-xie-fa-pythonjavacgo-by-endlessc-tcc9.lcv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+    <list default="true" id="2b8667b6-82a0-4b6c-ac91-b923860a6f28" name="更改" comment="7.6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[383]赎金信.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[383]赎金信.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,6 +232,8 @@
       <workItem from="1720192696875" duration="5038000" />
       <workItem from="1720248453364" duration="904000" />
       <workItem from="1720251965174" duration="698000" />
+      <workItem from="1720271674027" duration="80000" />
+      <workItem from="1720328166315" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="添加项目">
       <option name="closed" value="true" />
@@ -369,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720109859898</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="7.6">
+      <option name="closed" value="true" />
+      <created>1720271724454</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1720271724454</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,7 +373,8 @@
     <MESSAGE value="6.30" />
     <MESSAGE value="7.2" />
     <MESSAGE value="7.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.5" />
+    <MESSAGE value="7.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
