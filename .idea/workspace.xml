@@ -4,24 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8667b6-82a0-4b6c-ac91-b923860a6f28" name="更改" comment="7.6">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2970]统计移除递增子数组的数目 I.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2972]统计移除递增子数组的数目 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2974]最小数字游戏.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[3102]最小化曼哈顿距离.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[4]寻找两个正序数组的中位数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[724]寻找数组的中心下标.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[807]保持城市天际线.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[9]回文数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2970]统计移除递增子数组的数目 I.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2972]统计移除递增子数组的数目 II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2974]最小数字游戏.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3102]最小化曼哈顿距离.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[4]寻找两个正序数组的中位数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[724]寻找数组的中心下标.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[807]保持城市天际线.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[9]回文数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/solution/python3javacgotypescript-yi-ti-yi-jie-sh-1sth.lcv" afterDir="false" />
+    <list default="true" id="2b8667b6-82a0-4b6c-ac91-b923860a6f28" name="更改" comment="7.14">
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[138]随机链表的复制.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[141]环形链表.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2956]找到两个数组中的公共元素.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2959]关闭分部的可行集合数目.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[457]环形数组是否存在循环.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[61]旋转链表.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[721]账户合并.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[82]删除排序链表中的重复元素 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[92]反转链表 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[LCR 114]火星词典.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[138]随机链表的复制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[141]环形链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2956]找到两个数组中的公共元素.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2959]关闭分部的可行集合数目.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[457]环形数组是否存在循环.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[61]旋转链表.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[721]账户合并.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[82]删除排序链表中的重复元素 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[92]反转链表 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[LCR 114]火星词典.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/solution/ha-xi-biao-dfspythonjavacgojsrust-by-end-z9nh.lcv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/week/7-14/Q1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -56,122 +61,124 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Node.js.21.js.executor": "Run",
-    "Node.js.22.js.executor": "Run",
-    "Node.js.23.js.executor": "Run",
-    "Node.js.24.js.executor": "Run",
-    "Node.js.25.js.executor": "Run",
-    "Node.js.26.js.executor": "Run",
-    "Node.js.[1005]K 次取反后最大化的数组和.js.executor": "Run",
-    "Node.js.[1049]最后一块石头的重量 II.js.executor": "Run",
-    "Node.js.[1143]最长公共子序列.js.executor": "Run",
-    "Node.js.[115]不同的子序列.js.executor": "Run",
-    "Node.js.[121]买卖股票的最佳时机.js.executor": "Run",
-    "Node.js.[122]买卖股票的最佳时机 II.js.executor": "Run",
-    "Node.js.[123]买卖股票的最佳时机 III.js.executor": "Run",
-    "Node.js.[131]分割回文串.js.executor": "Run",
-    "Node.js.[134]加油站.js.executor": "Run",
-    "Node.js.[135]分发糖果.js.executor": "Run",
-    "Node.js.[14]最长公共前缀.js.executor": "Debug",
-    "Node.js.[151]反转字符串中的单词.js.executor": "Run",
-    "Node.js.[15]三数之和.js.executor": "Run",
-    "Node.js.[17]电话号码的字母组合.js.executor": "Run",
-    "Node.js.[18]四数之和.js.executor": "Run",
-    "Node.js.[198]打家劫舍.js.executor": "Run",
-    "Node.js.[1]两数之和.js.executor": "Run",
-    "Node.js.[202]快乐数.js.executor": "Run",
-    "Node.js.[203]移除链表元素.js.executor": "Run",
-    "Node.js.[205]同构字符串.js.executor": "Debug",
-    "Node.js.[20]有效的括号.js.executor": "Run",
-    "Node.js.[213]打家劫舍 II.js.executor": "Run",
-    "Node.js.[216]组合总和 III.js.executor": "Run",
-    "Node.js.[219]存在重复元素 II.js.executor": "Run",
-    "Node.js.[228]汇总区间.js.executor": "Debug",
-    "Node.js.[239]滑动窗口最大值.js.executor": "Run",
-    "Node.js.[242]有效的字母异位词.js.executor": "Debug",
-    "Node.js.[2619]数组原型对象的最后一个元素.js.executor": "Run",
-    "Node.js.[2624]蜗牛排序.js.executor": "Run",
-    "Node.js.[2677]分块数组.js.executor": "Run",
-    "Node.js.[2694]事件发射器.js.executor": "Run",
-    "Node.js.[2713]矩阵中严格递增的单元格数.js.executor": "Run",
-    "Node.js.[2734]执行子串操作后的字典序最小字符串.js.executor": "Run",
-    "Node.js.[2748]美丽下标对的数目.js.executor": "Run",
-    "Node.js.[2786]访问数组中的位置使分数最大.js.executor": "Run",
-    "Node.js.[279]完全平方数.js.executor": "Run",
-    "Node.js.[2974]最小数字游戏.js.executor": "Run",
-    "Node.js.[3102]最小化曼哈顿距离.js.executor": "Run",
-    "Node.js.[3115]质数的最大距离.js.executor": "Run",
-    "Node.js.[322]零钱兑换.js.executor": "Run",
-    "Node.js.[343]整数拆分.js.executor": "Run",
-    "Node.js.[349]两个数组的交集.js.executor": "Debug",
-    "Node.js.[36]有效的数独.js.executor": "Run",
-    "Node.js.[373]查找和最小的 K 对数字.js.executor": "Run",
-    "Node.js.[380]O(1) 时间插入、删除和获取随机元素.js.executor": "Debug",
-    "Node.js.[392]判断子序列.js.executor": "Run",
-    "Node.js.[39]组合总和.js.executor": "Run",
-    "Node.js.[3]无重复字符的最长子串.js.executor": "Run",
-    "Node.js.[40]组合总和 II.js.executor": "Run",
-    "Node.js.[416]分割等和子集.js.executor": "Run",
-    "Node.js.[452]用最少数量的箭引爆气球.js.executor": "Run",
-    "Node.js.[454]四数相加 II.js.executor": "Run",
-    "Node.js.[455]分发饼干.js.executor": "Run",
-    "Node.js.[45]跳跃游戏 II.js.executor": "Run",
-    "Node.js.[46]全排列.js.executor": "Run",
-    "Node.js.[491]非递减子序列.js.executor": "Run",
-    "Node.js.[494]目标和.js.executor": "Run",
-    "Node.js.[518]零钱兑换 II.js.executor": "Run",
-    "Node.js.[51]N 皇后.js.executor": "Run",
-    "Node.js.[53]最大子数组和.js.executor": "Run",
-    "Node.js.[55]跳跃游戏.js.executor": "Debug",
-    "Node.js.[56]合并区间.js.executor": "Run",
-    "Node.js.[583]两个字符串的删除操作.js.executor": "Run",
-    "Node.js.[59]螺旋矩阵 II.js.executor": "Run",
-    "Node.js.[647]回文子串.js.executor": "Run",
-    "Node.js.[674]最长连续递增序列.js.executor": "Run",
-    "Node.js.[68]文本左右对齐.js.executor": "Debug",
-    "Node.js.[6]Z 字形变换.js.executor": "Run",
-    "Node.js.[707]设计链表.js.executor": "Debug",
-    "Node.js.[718]最长重复子数组.js.executor": "Run",
-    "Node.js.[72]编辑距离.js.executor": "Run",
-    "Node.js.[763]划分字母区间.js.executor": "Debug",
-    "Node.js.[77]组合.js.executor": "Run",
-    "Node.js.[78]子集.js.executor": "Run",
-    "Node.js.[807]保持城市天际线.js.executor": "Run",
-    "Node.js.[90]子集 II.js.executor": "Run",
-    "Node.js.[93]复原 IP 地址.js.executor": "Run",
-    "Node.js.[96]不同的二叉搜索树.js.executor": "Run",
-    "Node.js.[977]有序数组的平方.js.executor": "Run",
-    "Node.js.study1.js.executor": "Run",
-    "Node.js.study11.js.executor": "Run",
-    "Node.js.study12.js.executor": "Run",
-    "Node.js.study3.js.executor": "Run",
-    "Node.js.study4.js.executor": "Run",
-    "Node.js.study5.js.executor": "Run",
-    "Node.js.study6.js.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "javascript.nodejs.core.library.configured.version": "20.14.0",
-    "javascript.nodejs.core.library.typings.version": "20.14.2",
-    "last_opened_file_path": "/home/wenyuhan/code/suanfa",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "/home/wenyuhan/.config/nvm/versions/node/v20.14.0/bin/node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "leetcode.id",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Node.js.21.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.22.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.23.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.24.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.25.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.26.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Q1.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[1005]K 次取反后最大化的数组和.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[1049]最后一块石头的重量 II.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[1143]最长公共子序列.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[115]不同的子序列.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[121]买卖股票的最佳时机.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[122]买卖股票的最佳时机 II.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[123]买卖股票的最佳时机 III.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[131]分割回文串.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[134]加油站.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[135]分发糖果.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[14]最长公共前缀.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.[151]反转字符串中的单词.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[15]三数之和.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[17]电话号码的字母组合.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[18]四数之和.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[198]打家劫舍.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[1]两数之和.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[202]快乐数.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[203]移除链表元素.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[205]同构字符串.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.[20]有效的括号.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[213]打家劫舍 II.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[216]组合总和 III.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[219]存在重复元素 II.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[228]汇总区间.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.[239]滑动窗口最大值.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[242]有效的字母异位词.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.[2619]数组原型对象的最后一个元素.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[2624]蜗牛排序.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[2677]分块数组.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[2694]事件发射器.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[2713]矩阵中严格递增的单元格数.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[2734]执行子串操作后的字典序最小字符串.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[2748]美丽下标对的数目.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[2786]访问数组中的位置使分数最大.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[279]完全平方数.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[2956]找到两个数组中的公共元素.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[2974]最小数字游戏.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[3102]最小化曼哈顿距离.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[3115]质数的最大距离.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[322]零钱兑换.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[343]整数拆分.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[349]两个数组的交集.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.[36]有效的数独.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[373]查找和最小的 K 对数字.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[380]O(1) 时间插入、删除和获取随机元素.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.[392]判断子序列.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[39]组合总和.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[3]无重复字符的最长子串.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[40]组合总和 II.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[416]分割等和子集.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[452]用最少数量的箭引爆气球.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[454]四数相加 II.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[455]分发饼干.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[45]跳跃游戏 II.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[46]全排列.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[491]非递减子序列.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[494]目标和.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[518]零钱兑换 II.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[51]N 皇后.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[53]最大子数组和.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[55]跳跃游戏.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.[56]合并区间.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[583]两个字符串的删除操作.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[59]螺旋矩阵 II.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[647]回文子串.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[674]最长连续递增序列.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[68]文本左右对齐.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.[6]Z 字形变换.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[707]设计链表.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.[718]最长重复子数组.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[72]编辑距离.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[763]划分字母区间.js.executor&quot;: &quot;Debug&quot;,
+    &quot;Node.js.[77]组合.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[78]子集.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[807]保持城市天际线.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[90]子集 II.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[93]复原 IP 地址.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[96]不同的二叉搜索树.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.[977]有序数组的平方.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.study1.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.study11.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.study12.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.study3.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.study4.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.study5.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.study6.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.14.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.14.2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/wenyuhan/code/suanfa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;/home/wenyuhan/.config/nvm/versions/node/v20.14.0/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;leetcode.id&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Node.js.[807]保持城市天际线.js">
-    <configuration name="[219]存在重复元素 II.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[219]存在重复元素 II.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+}</component>
+  <component name="RunManager" selected="Node.js.[2956]找到两个数组中的公共元素.js">
+    <configuration name="Q1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/study/week/7-14/Q1.js" working-dir="$PROJECT_DIR$/study/week/7-14">
       <method v="2" />
     </configuration>
-    <configuration name="[228]汇总区间.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[228]汇总区间.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
+    <configuration name="[2956]找到两个数组中的公共元素.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[2956]找到两个数组中的公共元素.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
     <configuration name="[2974]最小数字游戏.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode/editor/cn/[2974]最小数字游戏.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
@@ -197,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.[2956]找到两个数组中的公共元素.js" />
+        <item itemvalue="Node.js.Q1.js" />
         <item itemvalue="Node.js.[807]保持城市天际线.js" />
         <item itemvalue="Node.js.[2974]最小数字游戏.js" />
         <item itemvalue="Node.js.[3102]最小化曼哈顿距离.js" />
-        <item itemvalue="Node.js.[228]汇总区间.js" />
-        <item itemvalue="Node.js.[219]存在重复元素 II.js" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +270,13 @@
       <workItem from="1720694750709" duration="1316000" />
       <workItem from="1720754759853" duration="534000" />
       <workItem from="1720769760077" duration="1565000" />
-      <workItem from="1720970552528" duration="515000" />
+      <workItem from="1720970552528" duration="1811000" />
+      <workItem from="1721020045356" duration="1102000" />
+      <workItem from="1721102930532" duration="1521000" />
+      <workItem from="1721143805519" duration="2013000" />
+      <workItem from="1721178319326" duration="1987000" />
+      <workItem from="1721180551137" duration="8000" />
+      <workItem from="1721230040364" duration="2243000" />
     </task>
     <task id="LOCAL-00001" summary="添加项目">
       <option name="closed" value="true" />
@@ -393,7 +406,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720342494201</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="7.14">
+      <option name="closed" value="true" />
+      <created>1720971081173</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1720971081173</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +433,8 @@
     <MESSAGE value="7.2" />
     <MESSAGE value="7.5" />
     <MESSAGE value="7.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.6" />
+    <MESSAGE value="7.14" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -446,6 +468,16 @@
           <url>file://$PROJECT_DIR$/leetcode/editor/cn/[68]文本左右对齐.js</url>
           <line>23</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/study/week/7-14/Q1.js</url>
+          <line>43</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/leetcode/editor/cn/[2956]找到两个数组中的公共元素.js</url>
+          <line>67</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
